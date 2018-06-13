@@ -1,9 +1,9 @@
 .headerpersonal {
-
+  height: 200px;
   background-image: url("Images/BANNER.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
-  
+  background-image: img-responsive;
 }
 
 body {
@@ -94,8 +94,4 @@ a {
 .blogicon {
   color: #008CD0;
   font-size: 150%;
-}
-
-.colaborabutt {
-  margin-top: 150px;
 }
