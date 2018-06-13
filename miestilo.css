@@ -13,18 +13,23 @@ body {
 
 
 h1 {
-  color: #337AB7;
+  color: #008CD0;
   text-align: center;
   font-family: sans-serif;
 }
 .boton1
 {
-  color: white;
-  background-color: #337AB7;
+  color: black;
+  font-size: 150%;
+  background-color: #ffffff;
   z-index: 4;
   border-radius: 5px;
   text-align: center;
   padding-top: 1px;
+}
+
+.boton1 a {
+  color: #008CD0;
 }
 .seccionnoticias {
   margin-top: 20px;
@@ -32,7 +37,7 @@ h1 {
 .noticia {
   border-style: solid;
   border-width: medium;
-  border-color: #337AB7;
+  border-color: #008CD0;
   margin-top: 10px;
   margin-bottom: 10px;
   padding: 5px;
@@ -58,7 +63,7 @@ h3 {
 }
 
 .jumbotron {
-  background-color: #337AB7;
+  background-color: #008CD0;
 }
 
 .map {
@@ -71,7 +76,7 @@ h3 {
   margin: 0px;
 }
 .bigicon {
-  color: #337AB7;
+  color: #008CD0;
   font-size: 800%;
 }
 
@@ -87,6 +92,6 @@ a {
 }
 
 .blogicon {
-  color: #337AB7;
+  color: #008CD0;
   font-size: 150%;
 }
