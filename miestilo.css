@@ -1,25 +1,19 @@
 .headerpersonal {
-  background-image: url("Images/placeholderbanner.png");
-
-}
-
-.logonino {
-  height:5vh;
-  border-radius: 5px;
-
-
-
+  height: 50vh;
+  background-image: url("Images/BANNER.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: img-responsive;
 }
 
 body {
-  padding-top: 70px;
+  padding-top: 50px;
 }
 
 
-.textobanner {
-  clear: both;
-  margin-top: 90px;
-  color: blue;
+
+h1 {
+  color: #337AB7;
   text-align: center;
   font-family: sans-serif;
 }
@@ -69,7 +63,7 @@ h3 {
 
 .map {
   padding-top: 10px;
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .form-group {
@@ -85,9 +79,7 @@ a {
   color: white;
 }
 
-.nosotros {
-  margin-bottom: 40px;
-}
+
 
 .equipo {
   margin-top: 30px;
