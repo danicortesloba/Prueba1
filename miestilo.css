@@ -1,0 +1,100 @@
+.headerpersonal {
+  background-image: url("Images/placeholderbanner.png");
+
+}
+
+.logonino {
+  height:5vh;
+  border-radius: 5px;
+
+
+
+}
+
+body {
+  padding-top: 70px;
+}
+
+
+.textobanner {
+  clear: both;
+  margin-top: 90px;
+  color: blue;
+  text-align: center;
+  font-family: sans-serif;
+}
+.boton1
+{
+  color: white;
+  background-color: #337AB7;
+  z-index: 4;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 1px;
+}
+.seccionnoticias {
+  margin-top: 20px;
+}
+.noticia {
+  border-style: solid;
+  border-width: medium;
+  border-color: #337AB7;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.center {
+  text-align: center;
+}
+
+.justify
+{
+  text-align:justify;
+}
+h3 {
+  text-align: center;
+}
+
+.socialmedia {
+  height: 10vh;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.jumbotron {
+  background-color: #337AB7;
+}
+
+.map {
+  padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.form-group {
+  box-sizing: border-box;
+  margin: 0px;
+}
+.bigicon {
+  color: #337AB7;
+  font-size: 800%;
+}
+
+a {
+  color: white;
+}
+
+.nosotros {
+  margin-bottom: 40px;
+}
+
+.equipo {
+  margin-top: 30px;
+  margin-bottom:30px;
+}
+
+.blogicon {
+  color: #337AB7;
+  font-size: 150%;
+}
