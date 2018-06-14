@@ -1,9 +1,8 @@
 .headerpersonal {
-
   background-image: url("Images/BANNER.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
-  
+
 }
 
 body {
@@ -98,4 +97,5 @@ a {
 
 .colaborabutt {
   margin-top: 150px;
+  margin-bottom: 150px;
 }
