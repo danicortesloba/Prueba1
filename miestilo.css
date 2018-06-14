@@ -94,11 +94,13 @@ a {
   font-size: 150%;
 }
 
-@media (max-width: 1400px) and (min-width: 970px){
+@media (max-width: 1800px) and (min-width: 970px){
 
 
-.colaborabutt { margin-top: 250px
+.colaborabutt { margin-top: 250px;
+  
 }
+
 
 }
 
